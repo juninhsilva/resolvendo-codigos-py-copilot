@@ -7,7 +7,7 @@ texto = input("Digite uma string: ")
 numero = int(input("Digite um número: "))
 
 # Repite a string o número de vezes indicado
-resultado = texto * numero
+resultado = (texto + ' ')* numero
 
 # Exibe o resultado
 print("Resultado:", resultado)
